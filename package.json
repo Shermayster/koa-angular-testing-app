@@ -1,0 +1,22 @@
+{
+  "name": "angular-test-bakcend-app",
+  "version": "1.0.0",
+  "description": "backend for my angular testing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Nodjs",
+    "Koa"
+  ],
+  "author": "Pavel Shermayster",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.20"
+  }
+}
